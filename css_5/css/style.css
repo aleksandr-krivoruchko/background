@@ -76,7 +76,7 @@ h6 {
 
 /*--------------------*/
 .content {
-  width: 1000px;
+  width: 1700px;
   padding: 100px;
 }
 .block {
@@ -118,15 +118,27 @@ h6 {
   padding: 0 250px;
 }
 .li1 {
+  background: url(../img/icons/li.svg) left no-repeat;
+  font-size: 40px;
+  padding-left: 30px;
 }
 .li2 {
+  background: url(../img/icons/li.svg) left no-repeat;
+  font-size: 40px;
+  padding-left: 30px;
   font-style: italic;
   color: aqua;
 }
 .li3 {
+  background: url(../img/icons/li.svg) left no-repeat;
+  font-size: 40px;
+  padding-left: 30px;
   font-weight: bold;
 }
 .li4 {
+  background: url(../img/icons/li.svg) left no-repeat;
+  font-size: 40px;
+  padding-left: 30px;
   text-decoration: line-through;
   color: rgba(32, 31, 31, 0.473);
 }
